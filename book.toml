@@ -1,0 +1,14 @@
+[book]
+authors = ["rustunicorn"]
+language = "en"
+src = "src"
+title = "Sapere"
+
+[output.html]
+preferred-dark-theme = "ayu"
+smart-punctuation = true
+no-section-label = true
+
+[output.html.print]
+enable = false
+
