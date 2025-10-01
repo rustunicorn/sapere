@@ -3,6 +3,7 @@
 # Git
 - [Conventional Branches](./git/conventional_branches.md)
 - [Conventional Commits](./git/conventional_commits.md)
+- [Fixup Commits](./git/fixup_commits.md)
 
 # C++
 - [Move Semantics](./cpp/move_semantics.md)
